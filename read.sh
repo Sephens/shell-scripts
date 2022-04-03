@@ -10,3 +10,6 @@ read age
 sleep 2
 echo "Wow $name You are amazing because  $age is an amazing age!!"
 sleep 3
+
+echo "Byeee $name ..."
+sleep 2
